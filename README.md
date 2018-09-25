@@ -23,4 +23,5 @@ open browser and type raout path http://your ip/path to the slim app/slimapp/pub
 in my case its 
 http://localhost/slimapp/public/todos
 
+try it now
 
